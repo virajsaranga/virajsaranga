@@ -22,5 +22,5 @@
 <h2 align="left">Statistics...✨</h2>
 
 ![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=virajsaranga&show_icons=true&theme=radical)
-
+![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=virajsaranga&hide=contribs,prs,issues,contribs&theme=radical)
 
