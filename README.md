@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Viraj Saranga</h1>
 <h3 align="center">I’m passionate in Full Stack Web Development</h3>
 
