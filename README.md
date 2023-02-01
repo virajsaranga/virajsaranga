@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **virajridi@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">🔍Connect with me:</h2>
 <p align="left">
 <a href="https://instagram.com/viraj_ridiyagama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viraj_ridiyagama" height="30" width="40" /></a>
 </p>
